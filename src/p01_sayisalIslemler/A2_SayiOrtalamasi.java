@@ -1,4 +1,4 @@
-package sayisalIslemler;
+package p01_sayisalIslemler;
 
 public class A2_SayiOrtalamasi {
 

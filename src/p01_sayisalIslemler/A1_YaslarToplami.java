@@ -1,4 +1,4 @@
-package sayisalIslemler;
+package p01_sayisalIslemler;
 
 public class A1_YaslarToplami {
     public static void main(String[] args) {

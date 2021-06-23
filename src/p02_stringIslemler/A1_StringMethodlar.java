@@ -1,6 +1,4 @@
-package stringIslemler;
-
-import java.util.Locale;
+package p02_stringIslemler;
 
 public class A1_StringMethodlar {
     public static void main(String[] args) {
